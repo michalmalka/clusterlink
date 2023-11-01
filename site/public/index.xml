@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ClusterLink</title>
+    <link>http://clusterlink.net/</link>
+    <description>Recent content on ClusterLink</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://clusterlink.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://clusterlink.net/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://clusterlink.net/about/</guid>
+      <description>_TBD About page</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://clusterlink.net/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://clusterlink.net/contact/</guid>
+      <description>Please contact us for any feedack you have: clusterlink-dev@googlegroups.com</description>
+    </item>
+    
+  </channel>
+</rss>

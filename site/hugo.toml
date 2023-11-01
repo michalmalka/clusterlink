@@ -1,0 +1,4 @@
+baseURL = 'http://clusterlink.net/'
+languageCode = 'en-us'
+title = 'ClusterLink'
+theme = 'ananke'
